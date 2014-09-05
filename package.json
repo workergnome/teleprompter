@@ -1,0 +1,23 @@
+{
+  "name": "teleprompter",
+  "version": "0.0.0",
+  "description": "teleprompter ============",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/workergnome/teleprompter.git"
+  },
+  "author": "David Newbury",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/workergnome/teleprompter/issues"
+  },
+  "homepage": "https://github.com/workergnome/teleprompter",
+  "dependencies": {
+    "socket.io": "~1.1.0",
+    "express": "~4.8.8"
+  }
+}
